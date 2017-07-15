@@ -569,15 +569,18 @@ public class main : MonoBehaviour
 
 	IEnumerator StartGeoloc()
 	{
-		mGeolocStarting = true;
+        float gpsAccuracy = 1.0f;
+        float gpsUpdateInterval = 1.0f;
+        mGeolocStarting = true;
 		// First, check if user has location service enabled
 		if (!Input.location.isEnabledByUser) {
 			mGeolocStarting = false;
 			yield break;
 		}
+        Input.compass.enabled = true;
 
-		// Start service before querying location
-		Input.location.Start();
+        // Start service before querying location
+        Input.location.Start(gpsAccuracy, gpsUpdateInterval);
 
 		// Wait until service initializes
 		int maxWait = 20;

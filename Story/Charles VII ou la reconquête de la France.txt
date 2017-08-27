@@ -15,6 +15,7 @@ https://fr.wikipedia.org/wiki/Charles_VII_(roi_de_France)
 
 
 TABLEAU1
+lieu: inconnu
 
 Narration:
 
@@ -34,12 +35,100 @@ Nous pensons que leur but est de faire echoué les pourparlé entammés avec les bo
 pour maintenir la domination Anglaise sur Paris et sur le Royaume de France.
 
 Nous vous demandons donc d'investiguer et de tout faire pour que leur plan ne
-viennent perturbé les négociations entammées avec les Bourguignons."
+viennent perturber les négociations entammées avec les Bourguignons."
 
 Document2 (message codé):
-"rendez-vous ce soir à INDICE ENDROIT"
+"A quelques pas du Cognassier Chinois, dans l'enclos qui passa du temple à Malte,
+l'information vous sera transmise."
 
 
 TABLEAU 2
+lieu: square du temple, arbre cognassier chinois
+position gps: 48.8645, 2.360870
+
+Déclenchement: la narration se déclenche lorsque la position gps est atteinte
+
+Narration:
+Caché derrière le cognassier chinois, vous remarquez quelques gentils hommes discuter à quelques pas.
+Voici ce que vous entendez:
+
+Enregistrement audio1:
+"Bla bla"
+Je pense qu'il faut effectivement agir rapidement"
+"gzg be perdre sa couverture"
+"Le baron est proche du roi, il ne se fez démasquer"
+
+Narration: Les hommes repartent.
+Un baron veut trahir le roi mais vous n'êtes pas parvenu à obtenir l'identité de se baron,
+ni son plan d'action.
+Vous remarquez qu'une note est tombée de la poche de l'un des gentils hommes.
+Faites 100 pas vers le nord pour récupérer cette note.
+
+
+
+TABLEAU 3
+lieu: square du temple, 75 m au nord du cognassier
+position gps: 48.8648, 2.360870
+
+Déclenchement: position gps
+
+Document3 (message codé):
+Cher Baron De La Rotonde,
+Nous avons eu vent d'une invitation du roi Charles VII pour Philippe Le Bon,
+Duc de Bourgogne. Nous pensons qu'il désir négocier une trève à Aras.
+
+Votre mission consiste à porter témoignage contre le roi Charles VII pour 
+l'assassinat de Jean sans Peur lors de la rencontre du 10 Septembre 1419 au pont de Montereau.
+Nous pensons en effet que cela poussera Philipe Le Bon, 
+à renoncer à un trève avec l'assassin de son père.
+
+
+TABLEAU 4
+lieu: ?
+
+Déclenchement: fin du message précédent
+
+Narration:
+Vous connaissez désormais l'identité et le plan d'action des complotistes.
+Vous devez désormais vous rendre à la frontière de Paris, afin de transmettre ces informations à l'espion royal.
+Le lieu de rendez-vous vous a été transmis dans une note annexe du document royal:
+
+
+Document 4 (codé)
+Rendez-vous au Nord du rempart, au niveau de la porte du premier évêque de Paris
+
+
+
+TABLEAU 5
+lieu: porte Saint Denis
+gps: 48° 52' 08,66? N, 2° 21' 08,2? E)4
+
+Déclenchement: par position gps.
+
+Narration:
+Vous arrivez en dehors des remparts de la ville.
+Vous appercevez un homme vétu d'une cape lui couvrant le visage.
+
+Enregistrement audio2: 
+"Je dois tester vos facultés pour vérifier que vous êtes bien qui vous prétendez être!
+[Enigme1] Qu'est ce qui est jaune et qui attends?"
+//A remplacer :p
+
+
+Déclenchement: réponse à l'énigme précédente (Jonathan)
+
+
+FIN
+
+Narration: épilogue
+
+Document 5 (non codé):
+Cher Sujet, nous vous remercions pour vos loyaux services.
+Grâce à vous le traître de Baron a été mis au cachot et le traité d'Aras pourra être signé.
+La France et la personne royale vous sont très reconnaissant, cependant, vous comprendrez
+que ces événements ne pourrons être relaté à qui que se soit.
+Nous comptons sur votre discrétion et votre alégeance,
+
+Votre suserrain, Charles VII
 
 ...

@@ -24,8 +24,8 @@ Narration:
 Document1:
 "Chers loyaux sujets, mes conseillers les plus proches m'ont parler de vos exploits lors
 de missions secrètes pour la couronne. Je voudrais vous soliciter aujourd'hui pour une mission
-de la plus haute importance, il y va de l'avenir du Royaume.
-Comme vous le savez, les Anglais occupe depuis trop longtemps notre territoire. 
+de la plus haute importance, il y va de l'avenir du Royaume!
+Comme vous le savez, les Anglais occupent depuis trop longtemps notre territoire. 
 Malgrès les efforts de la pucelle d'Orléans, Paris est sous la coupe Anglaise depuis 15 ans.
 Nous sommes actuellement en pourparlé avec le duc de Bourgognes Philippe le Bon
 afin de mettre fin à la guerre civile et boutter les Anglais hors de Paris et de nos Terre.
@@ -90,7 +90,7 @@ Déclenchement: fin du message précédent
 
 Narration:
 Vous connaissez désormais l'identité et le plan d'action des complotistes.
-Vous devez désormais vous rendre à la frontière de Paris, afin de transmettre ces informations à l'espion royal.
+Vous devez vous rendre à la frontière de Paris, afin de transmettre ces informations à l'espion royal.
 Le lieu de rendez-vous vous a été transmis dans une note annexe du document royal:
 
 

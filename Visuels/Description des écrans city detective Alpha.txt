@@ -1,0 +1,32 @@
+﻿1. Parties narratives:
+
+Simple texte défilant
+
+
+2. Documents:
+
+Apparition en plein écran, puis ajout à l’inventaire (miniature).
+L’inventaire apparaît en permanence dès qu’il est non vide.
+L’inventaire est une simple liste d’objets.
+Cela peut-être également une transcription écrite d’un enregistrement audio,
+ou une vidéo.
+
+
+
+3. Déplacement
+
+Lorsqu’une énigme implique un changement de position,
+le radar se déclenche et se met en plein écran.
+L’inventaire est toujours disponible.
+
+Lorsque les joueurs arrivent au bon endroit, un son est joué et le radar disparaît.
+
+
+
+4. Réponse par texte
+
+Certaines énigmes impliquent une réponse par texte.
+Dans ce cas là, faire apparaître un élément visuel type cylindre de Jefferson.
+
+Le problème est que cela donne le nombre et le type de caractère + c’est compliqué.
+Du coup faire apparaître en fond un cylindre de jefferson et mettre un input text par dessus.

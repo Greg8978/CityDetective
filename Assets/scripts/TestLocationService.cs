@@ -2,7 +2,7 @@
 using UnityEngine.UI;
 using System.Collections;
 
-public class main_new : MonoBehaviour
+public class TestLocationService : MonoBehaviour
 {
 
     public Text testText;

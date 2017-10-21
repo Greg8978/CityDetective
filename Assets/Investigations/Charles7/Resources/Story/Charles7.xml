@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Story>
+	<chapter>
+		<element>
+			<type>narration</type>
+			<content>17 Août 1435. Votre groupe d'investigation a reçu par un messager la note suivante:</content>
+		</element>
+		<element>
+			<type>handWrittenNote</type>
+			<content>
+				Chers loyaux sujets, mes conseillers les plus proches m'ont parler de vos exploits lors
+				de missions secrètes pour la couronne. Je voudrais vous soliciter aujourd'hui pour une mission
+				de la plus haute importance, il y va de l'avenir du Royaume!
+				Comme vous le savez, les Anglais occupent depuis trop longtemps notre territoire.
+				Malgrès les efforts de la pucelle d'Orléans, Paris est sous la coupe Anglaise depuis 15 ans.
+				Nous sommes actuellement en pourparlé avec le duc de Bourgognes Philippe le Bon
+				afin de mettre fin à la guerre civile et boutter les Anglais hors de Paris et de nos Terre.
+
+				Nous avons eu vent d'un courrier adressé à des Parisiens ayant prêté allégeance à Henri VI.
+				Nous pensons que leur but est de faire echoué les pourparlé entammés avec les bourguignons
+				pour maintenir la domination Anglaise sur Paris et sur le Royaume de France.
+
+				Nous vous demandons donc d'investiguer et de tout faire pour que leur plan ne
+				viennent perturber les négociations entammées avec les Bourguignons.
+
+				Une fois que vous aurez trouvé de quoi il retourne, veuillez transmettre vos découvertes
+				à notre espion Hervé que vous trouverez à l'endroit indiqué ci-dessous:
+
+				VIRHID-ZSYW EY RSVH HY VIQTEVX, EY RMZIEY HI PE TSVXI HY TVIQMIV IZIUYI HI TEVMW
+			</content>
+		</element>
+
+		<element>
+			<type>handWrittenNote</type>
+			<content>Rendez-vous a quelques pas du Cognassier Chinois, dans l'enclos qui dans l'ordre passa du temple à Malte.</content>
+		</element>
+		<element>
+			<type>gps</type>
+			<content>48.8645,2.360870</content>
+		</element>
+	</chapter>
+	
+	
+	<chapter>
+		<element>
+			<type>audio</type>
+			<content>mentalkingfr.mp3</content>
+		</element>
+		<element>
+			<type>narration</type>
+			<content>
+				Un baron veut trahir le roi mais vous n'êtes pas parvenu à obtenir l'identité de ce baron,
+				ni son plan d'action.
+				Vous remarquez qu'une note est tombée de la poche de l'un des gentils hommes.
+				Faites 100 pas vers le nord pour récupérer cette note.
+			</content>
+		</element>
+		<element>
+			<type>gps</type>
+			<content>48.8648, 2.360870</content>
+		</element>
+	</chapter>
+
+	<chapter>
+		<element>
+			<type>handWrittenNote</type>
+			<content>
+				Cher Baron De La Rotonde,
+				Nous avons eu vent d'une invitation du roi Charles VII pour Philippe Le Bon,
+				Duc de Bourgogne. Nous pensons qu'il désir négocier une trève à Aras.
+
+				Votre mission consiste à porter témoignage contre le roi Charles VII pour
+				l'assassinat de Jean sans Peur lors de la rencontre du 10 Septembre 1419 au pont de Montereau.
+				Nous pensons en effet que cela poussera Philipe Le Bon,
+				à renoncer à un trève avec l'assassin de son père.
+			</content>
+		</element>
+
+		<element>
+			<type>narration</type>
+			<content>
+				Vous connaissez désormais l'identité et le plan d'action des complotistes.
+				Vous devez maintenant rejoindre l'espion royal.
+			</content>
+		</element>
+
+		<element>
+			<type>gps</type>
+			<content>48.520866, 2.21082</content>
+		</element>
+	</chapter>
+
+
+	<chapter>
+
+		<element>
+			<type>narration</type>
+			<content>
+				Vous arrivez en dehors des remparts de la ville.
+				Vous appercevez un homme vétu d'une cape lui couvrant le visage.
+			</content>
+		</element>
+
+		<element>
+			<type>audio</type>
+			<content>spyfr.mp3</content>
+		</element>
+
+
+		<element>
+			<type>riddleAnswer</type>
+			<content>Jonathan</content>
+		</element>
+	</chapter>
+
+	<chapter>
+
+		<element>
+			<type>victoryScreen</type>
+			<content>Bravo, votre mission accomplie</content>
+		</element>
+		<element>
+			<type>handWrittentNote</type>
+			<content>
+				Cher Sujet, nous vous remercions pour vos loyaux services.
+				Grâce à vous le traître de Baron a été mis au cachot et le traité d'Aras pourra être signé.
+				La France et la personne royale vous sont très reconnaissant, cependant, vous comprendrez
+				que ces événements ne pourrons être relaté à qui que se soit.
+				Nous comptons sur votre discrétion et votre alégeance,
+
+				Votre suserrain, Charles VII
+			</content>
+		</element>
+	</chapter>
+
+</Story>

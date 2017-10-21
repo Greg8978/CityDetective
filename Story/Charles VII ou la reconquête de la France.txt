@@ -59,7 +59,7 @@ Je pense qu'il faut effectivement agir rapidement"
 "Le baron est proche du roi, il ne se fez démasquer"
 
 Narration: Les hommes repartent.
-Un baron veut trahir le roi mais vous n'êtes pas parvenu à obtenir l'identité de se baron,
+Un baron veut trahir le roi mais vous n'êtes pas parvenu à obtenir l'identité de ce baron,
 ni son plan d'action.
 Vous remarquez qu'une note est tombée de la poche de l'un des gentils hommes.
 Faites 100 pas vers le nord pour récupérer cette note.
